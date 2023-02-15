@@ -1,2 +1,2 @@
 # TI3005B
-Repo para el bloque de semestre 8
+Repo para el bloque TI3005B
